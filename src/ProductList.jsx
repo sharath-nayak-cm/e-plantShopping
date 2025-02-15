@@ -251,7 +251,7 @@ const handlePlantsClick = (e) => {
 };
 
    const handleContinueShopping = (e) => {
-       alert(' handleContinueShopping 222 Functionality to be added for future reference');
+
        e.preventDefault();
     setShowPlants(true); // Set showAboutUs to true when "About Us" link is clicked
         setShowCart(false);
